@@ -1,4 +1,4 @@
-This project gives a simple overview of how raw data is cleaned up and prepared for analysis. It covers the core steps—like fixing missing values, merging data from different sources, transforming formats, and reducing complexity—so the data is ready for use in any data mining or machine learning task.
+This project gives a simple overview of how raw data is cleaned up and prepared for analysis. It covers the core steps like fixing missing values, merging data from different sources, transforming formats, and reducing complexity so the data is ready for use in any data mining or machine learning task.
 
 🛠️ What’s Inside
 Cleaning: Dealing with missing or messy data
